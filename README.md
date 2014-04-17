@@ -15,6 +15,7 @@
 ##Build
 ###Gradle
 * [Building and testing with gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F)-pdf download
+
 ###Maven
 
 ###Git
