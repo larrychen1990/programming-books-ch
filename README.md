@@ -1,6 +1,8 @@
 #programming-books
 ##JavaScript
 * [JavaScript The Good Parts](http://ishare.iask.sina.com.cn/f/10865308.html) (pdf download, Chinese edition, Site: sina)
+###Node Js
+* [javascript and node fundamentals] (https://leanpub.com/jsfun)(pdf download, English Edition)
 ###Jquery
 
 ###UnderScore
@@ -8,7 +10,7 @@
 ###BackBone
 
 ##Hadoop
-
+* [Hadoop The Definitive Guide] (http://ishare.iask.sina.com.cn/f/23660359.html?sudaref=www.baidu.com&retcode=0) (pdf download, Chinese edition, Site: sina)
 ##Java
 
 ##iOS
