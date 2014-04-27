@@ -10,6 +10,7 @@
 * [Jquery Cookbook](http://listic.ru/jQuery_Cookbook.pdf)(pdf download, English Edition)
 
 ###UnderScore
+* [Underscore Reference](http://autotelicum.github.io/Smooth-CoffeeScript/literate/underscore.pdf)(pdf download, English Edition)
 
 ###BackBone
 * [Developing Backbone.js Applications](http://www.it-ebooks.info/book/2330/)(pdf download, English Edition)
