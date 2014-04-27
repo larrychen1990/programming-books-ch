@@ -14,6 +14,9 @@
 
 ##Hadoop
 * [Hadoop The Definitive Guide] (http://ishare.iask.sina.com.cn/f/23660359.html?sudaref=www.baidu.com&retcode=0) (pdf download, Chinese edition, Site: sina)
+##CSS
+###SASS
+* [Pragmatic Guide To Sass](http://soyouregoingtoafestival.com/books/pragmatic-guide-to-sass.p1_0.pdf)(pdf download, English Edition)
 
 ##Java
 
