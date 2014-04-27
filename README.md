@@ -7,10 +7,12 @@
 * [javascript and node fundamentals] (https://leanpub.com/jsfun)(pdf download, English Edition)
 
 ###Jquery
+* [Jquery Cookbook](http://listic.ru/jQuery_Cookbook.pdf)(pdf download, English Edition)
 
 ###UnderScore
 
 ###BackBone
+* [Developing Backbone.js Applications](http://www.it-ebooks.info/book/2330/)(pdf download, English Edition)
 
 ##Hadoop
 * [Hadoop The Definitive Guide] (http://ishare.iask.sina.com.cn/f/23660359.html?sudaref=www.baidu.com&retcode=0) (pdf download, Chinese edition, Site: sina)
@@ -30,6 +32,7 @@
 ##Build
 ###Gradle
 * [Building and testing with gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F) (pdf download, English edition)
+* [Gradle Beyond the Basics](http://it-ebooks.info/book/2596/)(pdf download, English Edition)
 
 ###Maven
 
