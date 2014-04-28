@@ -34,6 +34,7 @@
 ###Gradle
 * [Building and testing with gradle](http://www.gradleware.com/registered-access?content=books%2Fbuilding-and-testing%2F) (pdf download, English edition)
 * [Gradle Beyond the Basics](http://it-ebooks.info/book/2596/)(pdf download, English Edition)
+* [Gradle Effective Implementation Guide](http://pdf.th7.cn/down/files/1312/Gradle%20Effective%20Implementation%20Guide.pdf)(pdf download, English Edition)
 
 ###Maven
 
